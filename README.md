@@ -1,5 +1,5 @@
 
-ひとまず新しいアプリを作成しました
+ひとまず新しいアプリを作成しました<br>
 ここからmemoアプリを作成します
 
 # Getting Started with Create React App
